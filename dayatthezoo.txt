@@ -1,0 +1,2281 @@
+/Library/Java/JavaVirtualMachines/adoptopenjdk-14.jdk/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=50694:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Users/jacksonlee/IdeaProjects/Project_One/out/production/Project_One com.Proj_one.Main
+Welcome to Jackson's Zoo
+How many days shall the Zoo run for? 
+7
+
+Zack the Zookeeper has arrived to the Zoo on Day 1
+
+-------
+Zack wakes up Chloe the Cat
+Chloe the Cat is awake
+-------
+Zack wakes up Charles the Cat
+Charles the Cat is awake
+-------
+Zack wakes up Leo the Lion
+Leo the Lion is awake
+-------
+Zack wakes up Liam the Lion
+Liam the Lion is awake
+-------
+Zack wakes up Tyler the Tiger
+Tyler the Tiger is awake
+-------
+Zack wakes up Timmy the Tiger
+Timmy the Tiger is awake
+-------
+Zack wakes up Dillon the Dog
+Dillon the Dog is awake
+-------
+Zack wakes up David the Dog
+David the Dog is awake
+-------
+Zack wakes up William the Wolf
+William the Wolf is awake
+-------
+Zack wakes up Whittier the Wolf
+Whittier the Wolf is awake
+-------
+Zack wakes up Ryan the Rhino
+Ryan the Rhino is awake
+-------
+Zack wakes up Reilly the Rhino
+Reilly the Rhino is awake
+-------
+Zack wakes up Elmer the Elephant
+Elmer the Elephant is awake
+-------
+Zack wakes up Elliot the Elephant
+Elliot the Elephant is awake
+-------
+Zack wakes up Henry the Hippo
+Henry the Hippo is awake
+-------
+Zack wakes up Haley the Hippo
+Haley the Hippo is awake
+-------
+Zack wakes up Billie the Bison
+Billie the Bison is awake
+-------
+Zack wakes up Bobby the Bison
+Bobby the Bison is awake
+-------
+Zack wakes up Cole the Cattle
+Cole the Cattle is awake
+-------
+Zack wakes up Chris the Cattle
+Chris the Cattle is awake
+-------
+Zack checks on Chloe the Cat
+Chloe the Cat says Meeooww!
+Zack has noted that 1 out of 20 animals have been accounted for
+-------
+Zack checks on Charles the Cat
+Charles the Cat says Meeooww!
+Zack has noted that 2 out of 20 animals have been accounted for
+-------
+Zack checks on Leo the Lion
+Leo the Lion says Raaawr!
+Zack has noted that 3 out of 20 animals have been accounted for
+-------
+Zack checks on Liam the Lion
+Liam the Lion says Raaawr!
+Zack has noted that 4 out of 20 animals have been accounted for
+-------
+Zack checks on Tyler the Tiger
+Tyler the Tiger says Grrrr!
+Zack has noted that 5 out of 20 animals have been accounted for
+-------
+Zack checks on Timmy the Tiger
+Timmy the Tiger says Grrrr!
+Zack has noted that 6 out of 20 animals have been accounted for
+-------
+Zack checks on Dillon the Dog
+Dillon the Dog says Woof!
+Zack has noted that 7 out of 20 animals have been accounted for
+-------
+Zack checks on David the Dog
+David the Dog says Woof!
+Zack has noted that 8 out of 20 animals have been accounted for
+-------
+Zack checks on William the Wolf
+William the Wolf says AWWWOOOO!
+Zack has noted that 9 out of 20 animals have been accounted for
+-------
+Zack checks on Whittier the Wolf
+Whittier the Wolf says AWWWOOOO!
+Zack has noted that 10 out of 20 animals have been accounted for
+-------
+Zack checks on Ryan the Rhino
+Ryan the Rhino says Grufff!
+Zack has noted that 11 out of 20 animals have been accounted for
+-------
+Zack checks on Reilly the Rhino
+Reilly the Rhino says Grufff!
+Zack has noted that 12 out of 20 animals have been accounted for
+-------
+Zack checks on Elmer the Elephant
+Elmer the Elephant says Prrrr!
+Zack has noted that 13 out of 20 animals have been accounted for
+-------
+Zack checks on Elliot the Elephant
+Elliot the Elephant says Prrrr!
+Zack has noted that 14 out of 20 animals have been accounted for
+-------
+Zack checks on Henry the Hippo
+Henry the Hippo says Hipp Hipp!
+Zack has noted that 15 out of 20 animals have been accounted for
+-------
+Zack checks on Haley the Hippo
+Haley the Hippo says Hipp Hipp!
+Zack has noted that 16 out of 20 animals have been accounted for
+-------
+Zack checks on Billie the Bison
+Billie the Bison says MOOOOO!
+Zack has noted that 17 out of 20 animals have been accounted for
+-------
+Zack checks on Bobby the Bison
+Bobby the Bison says MOOOOO!
+Zack has noted that 18 out of 20 animals have been accounted for
+-------
+Zack checks on Cole the Cattle
+Cole the Cattle says Mooo!
+Zack has noted that 19 out of 20 animals have been accounted for
+-------
+Zack checks on Chris the Cattle
+Chris the Cattle says Mooo!
+Zack has noted that 20 out of 20 animals have been accounted for
+-------
+Zack begins to feed Chloe the Cat
+Chloe the Cat eats his food
+-------
+Zack begins to feed Charles the Cat
+Charles the Cat eats his food
+-------
+Zack begins to feed Leo the Lion
+Leo the Lion eats his food
+-------
+Zack begins to feed Liam the Lion
+Liam the Lion eats his food
+-------
+Zack begins to feed Tyler the Tiger
+Tyler the Tiger eats his food
+-------
+Zack begins to feed Timmy the Tiger
+Timmy the Tiger eats his food
+-------
+Zack begins to feed Dillon the Dog
+Dillon the Dog eats his food
+-------
+Zack begins to feed David the Dog
+David the Dog eats his food
+-------
+Zack begins to feed William the Wolf
+William the Wolf eats his food
+-------
+Zack begins to feed Whittier the Wolf
+Whittier the Wolf eats his food
+-------
+Zack begins to feed Ryan the Rhino
+Ryan the Rhino eats his food
+-------
+Zack begins to feed Reilly the Rhino
+Reilly the Rhino eats his food
+-------
+Zack begins to feed Elmer the Elephant
+Elmer the Elephant eats his food
+-------
+Zack begins to feed Elliot the Elephant
+Elliot the Elephant eats his food
+-------
+Zack begins to feed Henry the Hippo
+Henry the Hippo eats his food
+-------
+Zack begins to feed Haley the Hippo
+Haley the Hippo eats his food
+-------
+Zack begins to feed Billie the Bison
+Billie the Bison eats his food
+-------
+Zack begins to feed Bobby the Bison
+Bobby the Bison eats his food
+-------
+Zack begins to feed Cole the Cattle
+Cole the Cattle eats his food
+-------
+Zack begins to feed Chris the Cattle
+Chris the Cattle eats his food
+-------
+Zack makes Chloe the Cat get some exercise
+Chloe the Cat has started to roam
+-------
+Zack makes Charles the Cat get some exercise
+Charles the Cat has started to roam
+-------
+Zack makes Leo the Lion get some exercise
+Leo the Lion has started to roam
+-------
+Zack makes Liam the Lion get some exercise
+Liam the Lion has started to roam
+-------
+Zack makes Tyler the Tiger get some exercise
+Tyler the Tiger has started to roam
+-------
+Zack makes Timmy the Tiger get some exercise
+Timmy the Tiger has started to roam
+-------
+Zack makes Dillon the Dog get some exercise
+Dillon the Dog to get some exercise
+-------
+Zack makes David the Dog get some exercise
+David the Dog to get some exercise
+-------
+Zack makes William the Wolf get some exercise
+William the Wolfbegins to roam
+-------
+Zack makes Whittier the Wolf get some exercise
+Whittier the Wolfbegins to roam
+-------
+Zack makes Ryan the Rhino get some exercise
+Ryan the Rhino begins to roam
+-------
+Zack makes Reilly the Rhino get some exercise
+Reilly the Rhino begins to roam
+-------
+Zack makes Elmer the Elephant get some exercise
+Elmer the Elephant begins to roam
+-------
+Zack makes Elliot the Elephant get some exercise
+Elliot the Elephant begins to roam
+-------
+Zack makes Henry the Hippo get some exercise
+Henry the Hippo begins to roam
+-------
+Zack makes Haley the Hippo get some exercise
+Haley the Hippo begins to roam
+-------
+Zack makes Billie the Bison get some exercise
+Billie the Bison has started to roam
+-------
+Zack makes Bobby the Bison get some exercise
+Bobby the Bison has started to roam
+-------
+Zack makes Cole the Cattle get some exercise
+Cole the Cattle has started to roam
+-------
+Zack makes Chris the Cattle get some exercise
+Chris the Cattle has started to roam
+-------
+Zack has started to put Chloe the Cat to sleep
+Chloe the Cat has started to Sleep 
+-------
+Zack has started to put Charles the Cat to sleep
+Charles the Cat begins to roam instead of sleeping!
+-------
+Zack has started to put Leo the Lion to sleep
+Leo the Lion says Raaawr!
+-------
+Zack has started to put Liam the Lion to sleep
+Liam the Lion has started to Sleep 
+-------
+Zack has started to put Tyler the Tiger to sleep
+Tyler the Tiger begins to roam instead of sleeping!
+-------
+Zack has started to put Timmy the Tiger to sleep
+Timmy the Tiger begins to roam instead of sleeping!
+-------
+Zack has started to put Dillon the Dog to sleep
+Dillon the Dog has started to sleep
+-------
+Zack has started to put David the Dog to sleep
+David the Dog has started to sleep
+-------
+Zack has started to put William the Wolf to sleep
+William the Wolf has started to sleep
+-------
+Zack has started to put Whittier the Wolf to sleep
+Whittier the Wolf has started to sleep
+-------
+Zack has started to put Ryan the Rhino to sleep
+Ryan the Rhino has started to sleep
+-------
+Zack has started to put Reilly the Rhino to sleep
+Reilly the Rhino has started to sleep
+-------
+Zack has started to put Elmer the Elephant to sleep
+Elmer the Elephant has started to sleep
+-------
+Zack has started to put Elliot the Elephant to sleep
+Elliot the Elephant has started to sleep
+-------
+Zack has started to put Henry the Hippo to sleep
+Henry the Hippo has started to sleep
+-------
+Zack has started to put Haley the Hippo to sleep
+Haley the Hippo has started to sleep
+-------
+Zack has started to put Billie the Bison to sleep
+Billie the Bison has started to sleep
+-------
+Zack has started to put Bobby the Bison to sleep
+Bobby the Bison has started to sleep
+-------
+Zack has started to put Cole the Cattle to sleep
+Cole the Cattle has started to sleep
+-------
+Zack has started to put Chris the Cattle to sleep
+Chris the Cattle has started to sleep
+
+Zack the Zookeeper has left the Zoo
+
+Zack the Zookeeper has arrived to the Zoo on Day 2
+
+-------
+Zack wakes up Chloe the Cat
+Chloe the Cat is awake
+-------
+Zack wakes up Charles the Cat
+Charles the Cat is awake
+-------
+Zack wakes up Leo the Lion
+Leo the Lion is awake
+-------
+Zack wakes up Liam the Lion
+Liam the Lion is awake
+-------
+Zack wakes up Tyler the Tiger
+Tyler the Tiger is awake
+-------
+Zack wakes up Timmy the Tiger
+Timmy the Tiger is awake
+-------
+Zack wakes up Dillon the Dog
+Dillon the Dog is awake
+-------
+Zack wakes up David the Dog
+David the Dog is awake
+-------
+Zack wakes up William the Wolf
+William the Wolf is awake
+-------
+Zack wakes up Whittier the Wolf
+Whittier the Wolf is awake
+-------
+Zack wakes up Ryan the Rhino
+Ryan the Rhino is awake
+-------
+Zack wakes up Reilly the Rhino
+Reilly the Rhino is awake
+-------
+Zack wakes up Elmer the Elephant
+Elmer the Elephant is awake
+-------
+Zack wakes up Elliot the Elephant
+Elliot the Elephant is awake
+-------
+Zack wakes up Henry the Hippo
+Henry the Hippo is awake
+-------
+Zack wakes up Haley the Hippo
+Haley the Hippo is awake
+-------
+Zack wakes up Billie the Bison
+Billie the Bison is awake
+-------
+Zack wakes up Bobby the Bison
+Bobby the Bison is awake
+-------
+Zack wakes up Cole the Cattle
+Cole the Cattle is awake
+-------
+Zack wakes up Chris the Cattle
+Chris the Cattle is awake
+-------
+Zack checks on Chloe the Cat
+Chloe the Cat says Meeooww!
+Zack has noted that 1 out of 20 animals have been accounted for
+-------
+Zack checks on Charles the Cat
+Charles the Cat says Meeooww!
+Zack has noted that 2 out of 20 animals have been accounted for
+-------
+Zack checks on Leo the Lion
+Leo the Lion says Raaawr!
+Zack has noted that 3 out of 20 animals have been accounted for
+-------
+Zack checks on Liam the Lion
+Liam the Lion says Raaawr!
+Zack has noted that 4 out of 20 animals have been accounted for
+-------
+Zack checks on Tyler the Tiger
+Tyler the Tiger says Grrrr!
+Zack has noted that 5 out of 20 animals have been accounted for
+-------
+Zack checks on Timmy the Tiger
+Timmy the Tiger says Grrrr!
+Zack has noted that 6 out of 20 animals have been accounted for
+-------
+Zack checks on Dillon the Dog
+Dillon the Dog says Woof!
+Zack has noted that 7 out of 20 animals have been accounted for
+-------
+Zack checks on David the Dog
+David the Dog says Woof!
+Zack has noted that 8 out of 20 animals have been accounted for
+-------
+Zack checks on William the Wolf
+William the Wolf says AWWWOOOO!
+Zack has noted that 9 out of 20 animals have been accounted for
+-------
+Zack checks on Whittier the Wolf
+Whittier the Wolf says AWWWOOOO!
+Zack has noted that 10 out of 20 animals have been accounted for
+-------
+Zack checks on Ryan the Rhino
+Ryan the Rhino says Grufff!
+Zack has noted that 11 out of 20 animals have been accounted for
+-------
+Zack checks on Reilly the Rhino
+Reilly the Rhino says Grufff!
+Zack has noted that 12 out of 20 animals have been accounted for
+-------
+Zack checks on Elmer the Elephant
+Elmer the Elephant says Prrrr!
+Zack has noted that 13 out of 20 animals have been accounted for
+-------
+Zack checks on Elliot the Elephant
+Elliot the Elephant says Prrrr!
+Zack has noted that 14 out of 20 animals have been accounted for
+-------
+Zack checks on Henry the Hippo
+Henry the Hippo says Hipp Hipp!
+Zack has noted that 15 out of 20 animals have been accounted for
+-------
+Zack checks on Haley the Hippo
+Haley the Hippo says Hipp Hipp!
+Zack has noted that 16 out of 20 animals have been accounted for
+-------
+Zack checks on Billie the Bison
+Billie the Bison says MOOOOO!
+Zack has noted that 17 out of 20 animals have been accounted for
+-------
+Zack checks on Bobby the Bison
+Bobby the Bison says MOOOOO!
+Zack has noted that 18 out of 20 animals have been accounted for
+-------
+Zack checks on Cole the Cattle
+Cole the Cattle says Mooo!
+Zack has noted that 19 out of 20 animals have been accounted for
+-------
+Zack checks on Chris the Cattle
+Chris the Cattle says Mooo!
+Zack has noted that 20 out of 20 animals have been accounted for
+-------
+Zack begins to feed Chloe the Cat
+Chloe the Cat eats his food
+-------
+Zack begins to feed Charles the Cat
+Charles the Cat eats his food
+-------
+Zack begins to feed Leo the Lion
+Leo the Lion eats his food
+-------
+Zack begins to feed Liam the Lion
+Liam the Lion eats his food
+-------
+Zack begins to feed Tyler the Tiger
+Tyler the Tiger eats his food
+-------
+Zack begins to feed Timmy the Tiger
+Timmy the Tiger eats his food
+-------
+Zack begins to feed Dillon the Dog
+Dillon the Dog eats his food
+-------
+Zack begins to feed David the Dog
+David the Dog eats his food
+-------
+Zack begins to feed William the Wolf
+William the Wolf eats his food
+-------
+Zack begins to feed Whittier the Wolf
+Whittier the Wolf eats his food
+-------
+Zack begins to feed Ryan the Rhino
+Ryan the Rhino eats his food
+-------
+Zack begins to feed Reilly the Rhino
+Reilly the Rhino eats his food
+-------
+Zack begins to feed Elmer the Elephant
+Elmer the Elephant eats his food
+-------
+Zack begins to feed Elliot the Elephant
+Elliot the Elephant eats his food
+-------
+Zack begins to feed Henry the Hippo
+Henry the Hippo eats his food
+-------
+Zack begins to feed Haley the Hippo
+Haley the Hippo eats his food
+-------
+Zack begins to feed Billie the Bison
+Billie the Bison eats his food
+-------
+Zack begins to feed Bobby the Bison
+Bobby the Bison eats his food
+-------
+Zack begins to feed Cole the Cattle
+Cole the Cattle eats his food
+-------
+Zack begins to feed Chris the Cattle
+Chris the Cattle eats his food
+-------
+Zack makes Chloe the Cat get some exercise
+Chloe the Cat has started to roam
+-------
+Zack makes Charles the Cat get some exercise
+Charles the Cat has started to roam
+-------
+Zack makes Leo the Lion get some exercise
+Leo the Lion has started to roam
+-------
+Zack makes Liam the Lion get some exercise
+Liam the Lion has started to roam
+-------
+Zack makes Tyler the Tiger get some exercise
+Tyler the Tiger has started to roam
+-------
+Zack makes Timmy the Tiger get some exercise
+Timmy the Tiger has started to roam
+-------
+Zack makes Dillon the Dog get some exercise
+Dillon the Dog to get some exercise
+-------
+Zack makes David the Dog get some exercise
+David the Dog to get some exercise
+-------
+Zack makes William the Wolf get some exercise
+William the Wolfbegins to roam
+-------
+Zack makes Whittier the Wolf get some exercise
+Whittier the Wolfbegins to roam
+-------
+Zack makes Ryan the Rhino get some exercise
+Ryan the Rhino begins to roam
+-------
+Zack makes Reilly the Rhino get some exercise
+Reilly the Rhino begins to roam
+-------
+Zack makes Elmer the Elephant get some exercise
+Elmer the Elephant begins to roam
+-------
+Zack makes Elliot the Elephant get some exercise
+Elliot the Elephant charges at the Zookeeper!
+-------
+Zack makes Henry the Hippo get some exercise
+Henry the Hippo begins to roam
+-------
+Zack makes Haley the Hippo get some exercise
+Haley the Hippo begins to roam
+-------
+Zack makes Billie the Bison get some exercise
+Billie the Bison has started to roam
+-------
+Zack makes Bobby the Bison get some exercise
+Bobby the Bison has started to roam
+-------
+Zack makes Cole the Cattle get some exercise
+Cole the Cattle has started to roam
+-------
+Zack makes Chris the Cattle get some exercise
+Chris the Cattle has started to roam
+-------
+Zack has started to put Chloe the Cat to sleep
+Chloe the Cat has started to Sleep 
+-------
+Zack has started to put Charles the Cat to sleep
+Charles the Cat says Meeooww!
+-------
+Zack has started to put Leo the Lion to sleep
+Leo the Lion has started to Sleep 
+-------
+Zack has started to put Liam the Lion to sleep
+Liam the Lion begins to roam instead of sleeping!
+-------
+Zack has started to put Tyler the Tiger to sleep
+Tyler the Tiger says Grrrr!
+-------
+Zack has started to put Timmy the Tiger to sleep
+Timmy the Tiger has started to Sleep 
+-------
+Zack has started to put Dillon the Dog to sleep
+Dillon the Dog has started to sleep
+-------
+Zack has started to put David the Dog to sleep
+David the Dog has started to sleep
+-------
+Zack has started to put William the Wolf to sleep
+William the Wolf has started to sleep
+-------
+Zack has started to put Whittier the Wolf to sleep
+Whittier the Wolf has started to sleep
+-------
+Zack has started to put Ryan the Rhino to sleep
+Ryan the Rhino has started to sleep
+-------
+Zack has started to put Reilly the Rhino to sleep
+Reilly the Rhino has started to sleep
+-------
+Zack has started to put Elmer the Elephant to sleep
+Elmer the Elephant has started to sleep
+-------
+Zack has started to put Elliot the Elephant to sleep
+Elliot the Elephant has started to sleep
+-------
+Zack has started to put Henry the Hippo to sleep
+Henry the Hippo has started to sleep
+-------
+Zack has started to put Haley the Hippo to sleep
+Haley the Hippo has started to sleep
+-------
+Zack has started to put Billie the Bison to sleep
+Billie the Bison has started to sleep
+-------
+Zack has started to put Bobby the Bison to sleep
+Bobby the Bison has started to sleep
+-------
+Zack has started to put Cole the Cattle to sleep
+Cole the Cattle has started to sleep
+-------
+Zack has started to put Chris the Cattle to sleep
+Chris the Cattle has started to sleep
+
+Zack the Zookeeper has left the Zoo
+
+Zack the Zookeeper has arrived to the Zoo on Day 3
+
+-------
+Zack wakes up Chloe the Cat
+Chloe the Cat is awake
+-------
+Zack wakes up Charles the Cat
+Charles the Cat is awake
+-------
+Zack wakes up Leo the Lion
+Leo the Lion is awake
+-------
+Zack wakes up Liam the Lion
+Liam the Lion is awake
+-------
+Zack wakes up Tyler the Tiger
+Tyler the Tiger is awake
+-------
+Zack wakes up Timmy the Tiger
+Timmy the Tiger is awake
+-------
+Zack wakes up Dillon the Dog
+Dillon the Dog is awake
+-------
+Zack wakes up David the Dog
+David the Dog is awake
+-------
+Zack wakes up William the Wolf
+William the Wolf is awake
+-------
+Zack wakes up Whittier the Wolf
+Whittier the Wolf is awake
+-------
+Zack wakes up Ryan the Rhino
+Ryan the Rhino is awake
+-------
+Zack wakes up Reilly the Rhino
+Reilly the Rhino is awake
+-------
+Zack wakes up Elmer the Elephant
+Elmer the Elephant is awake
+-------
+Zack wakes up Elliot the Elephant
+Elliot the Elephant is awake
+-------
+Zack wakes up Henry the Hippo
+Henry the Hippo is awake
+-------
+Zack wakes up Haley the Hippo
+Haley the Hippo is awake
+-------
+Zack wakes up Billie the Bison
+Billie the Bison is awake
+-------
+Zack wakes up Bobby the Bison
+Bobby the Bison is awake
+-------
+Zack wakes up Cole the Cattle
+Cole the Cattle is awake
+-------
+Zack wakes up Chris the Cattle
+Chris the Cattle is awake
+-------
+Zack checks on Chloe the Cat
+Chloe the Cat says Meeooww!
+Zack has noted that 1 out of 20 animals have been accounted for
+-------
+Zack checks on Charles the Cat
+Charles the Cat says Meeooww!
+Zack has noted that 2 out of 20 animals have been accounted for
+-------
+Zack checks on Leo the Lion
+Leo the Lion says Raaawr!
+Zack has noted that 3 out of 20 animals have been accounted for
+-------
+Zack checks on Liam the Lion
+Liam the Lion says Raaawr!
+Zack has noted that 4 out of 20 animals have been accounted for
+-------
+Zack checks on Tyler the Tiger
+Tyler the Tiger says Grrrr!
+Zack has noted that 5 out of 20 animals have been accounted for
+-------
+Zack checks on Timmy the Tiger
+Timmy the Tiger says Grrrr!
+Zack has noted that 6 out of 20 animals have been accounted for
+-------
+Zack checks on Dillon the Dog
+Dillon the Dog says Woof!
+Zack has noted that 7 out of 20 animals have been accounted for
+-------
+Zack checks on David the Dog
+David the Dog says Woof!
+Zack has noted that 8 out of 20 animals have been accounted for
+-------
+Zack checks on William the Wolf
+William the Wolf says AWWWOOOO!
+Zack has noted that 9 out of 20 animals have been accounted for
+-------
+Zack checks on Whittier the Wolf
+Whittier the Wolf says AWWWOOOO!
+Zack has noted that 10 out of 20 animals have been accounted for
+-------
+Zack checks on Ryan the Rhino
+Ryan the Rhino says Grufff!
+Zack has noted that 11 out of 20 animals have been accounted for
+-------
+Zack checks on Reilly the Rhino
+Reilly the Rhino says Grufff!
+Zack has noted that 12 out of 20 animals have been accounted for
+-------
+Zack checks on Elmer the Elephant
+Elmer the Elephant says Prrrr!
+Zack has noted that 13 out of 20 animals have been accounted for
+-------
+Zack checks on Elliot the Elephant
+Elliot the Elephant says Prrrr!
+Zack has noted that 14 out of 20 animals have been accounted for
+-------
+Zack checks on Henry the Hippo
+Henry the Hippo says Hipp Hipp!
+Zack has noted that 15 out of 20 animals have been accounted for
+-------
+Zack checks on Haley the Hippo
+Haley the Hippo says Hipp Hipp!
+Zack has noted that 16 out of 20 animals have been accounted for
+-------
+Zack checks on Billie the Bison
+Billie the Bison says MOOOOO!
+Zack has noted that 17 out of 20 animals have been accounted for
+-------
+Zack checks on Bobby the Bison
+Bobby the Bison says MOOOOO!
+Zack has noted that 18 out of 20 animals have been accounted for
+-------
+Zack checks on Cole the Cattle
+Cole the Cattle says Mooo!
+Zack has noted that 19 out of 20 animals have been accounted for
+-------
+Zack checks on Chris the Cattle
+Chris the Cattle says Mooo!
+Zack has noted that 20 out of 20 animals have been accounted for
+-------
+Zack begins to feed Chloe the Cat
+Chloe the Cat eats his food
+-------
+Zack begins to feed Charles the Cat
+Charles the Cat eats his food
+-------
+Zack begins to feed Leo the Lion
+Leo the Lion eats his food
+-------
+Zack begins to feed Liam the Lion
+Liam the Lion eats his food
+-------
+Zack begins to feed Tyler the Tiger
+Tyler the Tiger eats his food
+-------
+Zack begins to feed Timmy the Tiger
+Timmy the Tiger eats his food
+-------
+Zack begins to feed Dillon the Dog
+Dillon the Dog eats his food
+-------
+Zack begins to feed David the Dog
+David the Dog eats his food
+-------
+Zack begins to feed William the Wolf
+William the Wolf eats his food
+-------
+Zack begins to feed Whittier the Wolf
+Whittier the Wolf eats his food
+-------
+Zack begins to feed Ryan the Rhino
+Ryan the Rhino eats his food
+-------
+Zack begins to feed Reilly the Rhino
+Reilly the Rhino eats his food
+-------
+Zack begins to feed Elmer the Elephant
+Elmer the Elephant eats his food
+-------
+Zack begins to feed Elliot the Elephant
+Elliot the Elephant eats his food
+-------
+Zack begins to feed Henry the Hippo
+Henry the Hippo eats his food
+-------
+Zack begins to feed Haley the Hippo
+Haley the Hippo eats his food
+-------
+Zack begins to feed Billie the Bison
+Billie the Bison eats his food
+-------
+Zack begins to feed Bobby the Bison
+Bobby the Bison eats his food
+-------
+Zack begins to feed Cole the Cattle
+Cole the Cattle eats his food
+-------
+Zack begins to feed Chris the Cattle
+Chris the Cattle eats his food
+-------
+Zack makes Chloe the Cat get some exercise
+Chloe the Cat has started to roam
+-------
+Zack makes Charles the Cat get some exercise
+Charles the Cat has started to roam
+-------
+Zack makes Leo the Lion get some exercise
+Leo the Lion has started to roam
+-------
+Zack makes Liam the Lion get some exercise
+Liam the Lion has started to roam
+-------
+Zack makes Tyler the Tiger get some exercise
+Tyler the Tiger has started to roam
+-------
+Zack makes Timmy the Tiger get some exercise
+Timmy the Tiger has started to roam
+-------
+Zack makes Dillon the Dog get some exercise
+Dillon the has begun to dig!
+-------
+Zack makes David the Dog get some exercise
+David the has begun to dig!
+-------
+Zack makes William the Wolf get some exercise
+William the Wolfbegins to roam
+-------
+Zack makes Whittier the Wolf get some exercise
+Whittier the Wolfbegins to roam
+-------
+Zack makes Ryan the Rhino get some exercise
+Ryan the Rhino begins to roam
+-------
+Zack makes Reilly the Rhino get some exercise
+Reilly the Rhino begins to roam
+-------
+Zack makes Elmer the Elephant get some exercise
+Elmer the Elephant charges at the Zookeeper!
+-------
+Zack makes Elliot the Elephant get some exercise
+Elliot the Elephant begins to roam
+-------
+Zack makes Henry the Hippo get some exercise
+Henry the Hippo begins to roam
+-------
+Zack makes Haley the Hippo get some exercise
+Haley the Hippo begins to roam
+-------
+Zack makes Billie the Bison get some exercise
+Billie the Bison has started to roam
+-------
+Zack makes Bobby the Bison get some exercise
+Bobby the Bison has started to roam
+-------
+Zack makes Cole the Cattle get some exercise
+Cole the Cattle has started to roam
+-------
+Zack makes Chris the Cattle get some exercise
+Chris the Cattle has started to roam
+-------
+Zack has started to put Chloe the Cat to sleep
+Chloe the Cat has started to Sleep 
+-------
+Zack has started to put Charles the Cat to sleep
+Charles the Cat begins to roam instead of sleeping!
+-------
+Zack has started to put Leo the Lion to sleep
+Leo the Lion says Raaawr!
+-------
+Zack has started to put Liam the Lion to sleep
+Liam the Lion says Raaawr!
+-------
+Zack has started to put Tyler the Tiger to sleep
+Tyler the Tiger says Grrrr!
+-------
+Zack has started to put Timmy the Tiger to sleep
+Timmy the Tiger begins to roam instead of sleeping!
+-------
+Zack has started to put Dillon the Dog to sleep
+Dillon the Dog has started to sleep
+-------
+Zack has started to put David the Dog to sleep
+David the Dog has started to sleep
+-------
+Zack has started to put William the Wolf to sleep
+William the Wolf has started to sleep
+-------
+Zack has started to put Whittier the Wolf to sleep
+Whittier the Wolf has started to sleep
+-------
+Zack has started to put Ryan the Rhino to sleep
+Ryan the Rhino has started to sleep
+-------
+Zack has started to put Reilly the Rhino to sleep
+Reilly the Rhino has started to sleep
+-------
+Zack has started to put Elmer the Elephant to sleep
+Elmer the Elephant has started to sleep
+-------
+Zack has started to put Elliot the Elephant to sleep
+Elliot the Elephant has started to sleep
+-------
+Zack has started to put Henry the Hippo to sleep
+Henry the Hippo has started to sleep
+-------
+Zack has started to put Haley the Hippo to sleep
+Haley the Hippo has started to sleep
+-------
+Zack has started to put Billie the Bison to sleep
+Billie the Bison has started to sleep
+-------
+Zack has started to put Bobby the Bison to sleep
+Bobby the Bison has started to sleep
+-------
+Zack has started to put Cole the Cattle to sleep
+Cole the Cattle has started to sleep
+-------
+Zack has started to put Chris the Cattle to sleep
+Chris the Cattle has started to sleep
+
+Zack the Zookeeper has left the Zoo
+
+Zack the Zookeeper has arrived to the Zoo on Day 4
+
+-------
+Zack wakes up Chloe the Cat
+Chloe the Cat is awake
+-------
+Zack wakes up Charles the Cat
+Charles the Cat is awake
+-------
+Zack wakes up Leo the Lion
+Leo the Lion is awake
+-------
+Zack wakes up Liam the Lion
+Liam the Lion is awake
+-------
+Zack wakes up Tyler the Tiger
+Tyler the Tiger is awake
+-------
+Zack wakes up Timmy the Tiger
+Timmy the Tiger is awake
+-------
+Zack wakes up Dillon the Dog
+Dillon the Dog is awake
+-------
+Zack wakes up David the Dog
+David the Dog is awake
+-------
+Zack wakes up William the Wolf
+William the Wolf is awake
+-------
+Zack wakes up Whittier the Wolf
+Whittier the Wolf is awake
+-------
+Zack wakes up Ryan the Rhino
+Ryan the Rhino is awake
+-------
+Zack wakes up Reilly the Rhino
+Reilly the Rhino is awake
+-------
+Zack wakes up Elmer the Elephant
+Elmer the Elephant is awake
+-------
+Zack wakes up Elliot the Elephant
+Elliot the Elephant is awake
+-------
+Zack wakes up Henry the Hippo
+Henry the Hippo is awake
+-------
+Zack wakes up Haley the Hippo
+Haley the Hippo is awake
+-------
+Zack wakes up Billie the Bison
+Billie the Bison is awake
+-------
+Zack wakes up Bobby the Bison
+Bobby the Bison is awake
+-------
+Zack wakes up Cole the Cattle
+Cole the Cattle is awake
+-------
+Zack wakes up Chris the Cattle
+Chris the Cattle is awake
+-------
+Zack checks on Chloe the Cat
+Chloe the Cat says Meeooww!
+Zack has noted that 1 out of 20 animals have been accounted for
+-------
+Zack checks on Charles the Cat
+Charles the Cat says Meeooww!
+Zack has noted that 2 out of 20 animals have been accounted for
+-------
+Zack checks on Leo the Lion
+Leo the Lion says Raaawr!
+Zack has noted that 3 out of 20 animals have been accounted for
+-------
+Zack checks on Liam the Lion
+Liam the Lion says Raaawr!
+Zack has noted that 4 out of 20 animals have been accounted for
+-------
+Zack checks on Tyler the Tiger
+Tyler the Tiger says Grrrr!
+Zack has noted that 5 out of 20 animals have been accounted for
+-------
+Zack checks on Timmy the Tiger
+Timmy the Tiger says Grrrr!
+Zack has noted that 6 out of 20 animals have been accounted for
+-------
+Zack checks on Dillon the Dog
+Dillon the Dog says Woof!
+Zack has noted that 7 out of 20 animals have been accounted for
+-------
+Zack checks on David the Dog
+David the Dog says Woof!
+Zack has noted that 8 out of 20 animals have been accounted for
+-------
+Zack checks on William the Wolf
+William the Wolf says AWWWOOOO!
+Zack has noted that 9 out of 20 animals have been accounted for
+-------
+Zack checks on Whittier the Wolf
+Whittier the Wolf says AWWWOOOO!
+Zack has noted that 10 out of 20 animals have been accounted for
+-------
+Zack checks on Ryan the Rhino
+Ryan the Rhino says Grufff!
+Zack has noted that 11 out of 20 animals have been accounted for
+-------
+Zack checks on Reilly the Rhino
+Reilly the Rhino says Grufff!
+Zack has noted that 12 out of 20 animals have been accounted for
+-------
+Zack checks on Elmer the Elephant
+Elmer the Elephant says Prrrr!
+Zack has noted that 13 out of 20 animals have been accounted for
+-------
+Zack checks on Elliot the Elephant
+Elliot the Elephant says Prrrr!
+Zack has noted that 14 out of 20 animals have been accounted for
+-------
+Zack checks on Henry the Hippo
+Henry the Hippo says Hipp Hipp!
+Zack has noted that 15 out of 20 animals have been accounted for
+-------
+Zack checks on Haley the Hippo
+Haley the Hippo says Hipp Hipp!
+Zack has noted that 16 out of 20 animals have been accounted for
+-------
+Zack checks on Billie the Bison
+Billie the Bison says MOOOOO!
+Zack has noted that 17 out of 20 animals have been accounted for
+-------
+Zack checks on Bobby the Bison
+Bobby the Bison says MOOOOO!
+Zack has noted that 18 out of 20 animals have been accounted for
+-------
+Zack checks on Cole the Cattle
+Cole the Cattle says Mooo!
+Zack has noted that 19 out of 20 animals have been accounted for
+-------
+Zack checks on Chris the Cattle
+Chris the Cattle says Mooo!
+Zack has noted that 20 out of 20 animals have been accounted for
+-------
+Zack begins to feed Chloe the Cat
+Chloe the Cat eats his food
+-------
+Zack begins to feed Charles the Cat
+Charles the Cat eats his food
+-------
+Zack begins to feed Leo the Lion
+Leo the Lion eats his food
+-------
+Zack begins to feed Liam the Lion
+Liam the Lion eats his food
+-------
+Zack begins to feed Tyler the Tiger
+Tyler the Tiger eats his food
+-------
+Zack begins to feed Timmy the Tiger
+Timmy the Tiger eats his food
+-------
+Zack begins to feed Dillon the Dog
+Dillon the Dog eats his food
+-------
+Zack begins to feed David the Dog
+David the Dog eats his food
+-------
+Zack begins to feed William the Wolf
+William the Wolf eats his food
+-------
+Zack begins to feed Whittier the Wolf
+Whittier the Wolf eats his food
+-------
+Zack begins to feed Ryan the Rhino
+Ryan the Rhino eats his food
+-------
+Zack begins to feed Reilly the Rhino
+Reilly the Rhino eats his food
+-------
+Zack begins to feed Elmer the Elephant
+Elmer the Elephant eats his food
+-------
+Zack begins to feed Elliot the Elephant
+Elliot the Elephant eats his food
+-------
+Zack begins to feed Henry the Hippo
+Henry the Hippo eats his food
+-------
+Zack begins to feed Haley the Hippo
+Haley the Hippo eats his food
+-------
+Zack begins to feed Billie the Bison
+Billie the Bison eats his food
+-------
+Zack begins to feed Bobby the Bison
+Bobby the Bison eats his food
+-------
+Zack begins to feed Cole the Cattle
+Cole the Cattle eats his food
+-------
+Zack begins to feed Chris the Cattle
+Chris the Cattle eats his food
+-------
+Zack makes Chloe the Cat get some exercise
+Chloe the Cat has started to roam
+-------
+Zack makes Charles the Cat get some exercise
+Charles the Cat has started to roam
+-------
+Zack makes Leo the Lion get some exercise
+Leo the Lion has started to roam
+-------
+Zack makes Liam the Lion get some exercise
+Liam the Lion has started to roam
+-------
+Zack makes Tyler the Tiger get some exercise
+Tyler the Tiger has started to roam
+-------
+Zack makes Timmy the Tiger get some exercise
+Timmy the Tiger has started to roam
+-------
+Zack makes Dillon the Dog get some exercise
+Dillon the Dog to get some exercise
+-------
+Zack makes David the Dog get some exercise
+David the Dog to get some exercise
+-------
+Zack makes William the Wolf get some exercise
+William the Wolfbegins to roam
+-------
+Zack makes Whittier the Wolf get some exercise
+Whittier the Wolfbegins to roam
+-------
+Zack makes Ryan the Rhino get some exercise
+Ryan the Rhino begins to roam
+-------
+Zack makes Reilly the Rhino get some exercise
+Reilly the Rhino begins to roam
+-------
+Zack makes Elmer the Elephant get some exercise
+Elmer the Elephant charges at the Zookeeper!
+-------
+Zack makes Elliot the Elephant get some exercise
+Elliot the Elephant begins to roam
+-------
+Zack makes Henry the Hippo get some exercise
+Henry the Hippo charges at the Zookeeper!
+-------
+Zack makes Haley the Hippo get some exercise
+Haley the Hippo charges at the Zookeeper!
+-------
+Zack makes Billie the Bison get some exercise
+Billie the Bison has started to roam
+-------
+Zack makes Bobby the Bison get some exercise
+Bobby the Bison has started to roam
+-------
+Zack makes Cole the Cattle get some exercise
+Cole the Cattle has started to roam
+-------
+Zack makes Chris the Cattle get some exercise
+Chris the Cattle has started to roam
+-------
+Zack has started to put Chloe the Cat to sleep
+Chloe the Cat begins to roam instead of sleeping!
+-------
+Zack has started to put Charles the Cat to sleep
+Charles the Cat begins to roam instead of sleeping!
+-------
+Zack has started to put Leo the Lion to sleep
+Leo the Lion begins to roam instead of sleeping!
+-------
+Zack has started to put Liam the Lion to sleep
+Liam the Lion has started to Sleep 
+-------
+Zack has started to put Tyler the Tiger to sleep
+Tyler the Tiger begins to roam instead of sleeping!
+-------
+Zack has started to put Timmy the Tiger to sleep
+Timmy the Tiger says Grrrr!
+-------
+Zack has started to put Dillon the Dog to sleep
+Dillon the Dog has started to sleep
+-------
+Zack has started to put David the Dog to sleep
+David the Dog has started to sleep
+-------
+Zack has started to put William the Wolf to sleep
+William the Wolf has started to sleep
+-------
+Zack has started to put Whittier the Wolf to sleep
+Whittier the Wolf has started to sleep
+-------
+Zack has started to put Ryan the Rhino to sleep
+Ryan the Rhino has started to sleep
+-------
+Zack has started to put Reilly the Rhino to sleep
+Reilly the Rhino has started to sleep
+-------
+Zack has started to put Elmer the Elephant to sleep
+Elmer the Elephant has started to sleep
+-------
+Zack has started to put Elliot the Elephant to sleep
+Elliot the Elephant has started to sleep
+-------
+Zack has started to put Henry the Hippo to sleep
+Henry the Hippo has started to sleep
+-------
+Zack has started to put Haley the Hippo to sleep
+Haley the Hippo has started to sleep
+-------
+Zack has started to put Billie the Bison to sleep
+Billie the Bison has started to sleep
+-------
+Zack has started to put Bobby the Bison to sleep
+Bobby the Bison has started to sleep
+-------
+Zack has started to put Cole the Cattle to sleep
+Cole the Cattle has started to sleep
+-------
+Zack has started to put Chris the Cattle to sleep
+Chris the Cattle has started to sleep
+
+Zack the Zookeeper has left the Zoo
+
+Zack the Zookeeper has arrived to the Zoo on Day 5
+
+-------
+Zack wakes up Chloe the Cat
+Chloe the Cat is awake
+-------
+Zack wakes up Charles the Cat
+Charles the Cat is awake
+-------
+Zack wakes up Leo the Lion
+Leo the Lion is awake
+-------
+Zack wakes up Liam the Lion
+Liam the Lion is awake
+-------
+Zack wakes up Tyler the Tiger
+Tyler the Tiger is awake
+-------
+Zack wakes up Timmy the Tiger
+Timmy the Tiger is awake
+-------
+Zack wakes up Dillon the Dog
+Dillon the Dog is awake
+-------
+Zack wakes up David the Dog
+David the Dog is awake
+-------
+Zack wakes up William the Wolf
+William the Wolf is awake
+-------
+Zack wakes up Whittier the Wolf
+Whittier the Wolf is awake
+-------
+Zack wakes up Ryan the Rhino
+Ryan the Rhino is awake
+-------
+Zack wakes up Reilly the Rhino
+Reilly the Rhino is awake
+-------
+Zack wakes up Elmer the Elephant
+Elmer the Elephant is awake
+-------
+Zack wakes up Elliot the Elephant
+Elliot the Elephant is awake
+-------
+Zack wakes up Henry the Hippo
+Henry the Hippo is awake
+-------
+Zack wakes up Haley the Hippo
+Haley the Hippo is awake
+-------
+Zack wakes up Billie the Bison
+Billie the Bison is awake
+-------
+Zack wakes up Bobby the Bison
+Bobby the Bison is awake
+-------
+Zack wakes up Cole the Cattle
+Cole the Cattle is awake
+-------
+Zack wakes up Chris the Cattle
+Chris the Cattle is awake
+-------
+Zack checks on Chloe the Cat
+Chloe the Cat says Meeooww!
+Zack has noted that 1 out of 20 animals have been accounted for
+-------
+Zack checks on Charles the Cat
+Charles the Cat says Meeooww!
+Zack has noted that 2 out of 20 animals have been accounted for
+-------
+Zack checks on Leo the Lion
+Leo the Lion says Raaawr!
+Zack has noted that 3 out of 20 animals have been accounted for
+-------
+Zack checks on Liam the Lion
+Liam the Lion says Raaawr!
+Zack has noted that 4 out of 20 animals have been accounted for
+-------
+Zack checks on Tyler the Tiger
+Tyler the Tiger says Grrrr!
+Zack has noted that 5 out of 20 animals have been accounted for
+-------
+Zack checks on Timmy the Tiger
+Timmy the Tiger says Grrrr!
+Zack has noted that 6 out of 20 animals have been accounted for
+-------
+Zack checks on Dillon the Dog
+Dillon the Dog says Woof!
+Zack has noted that 7 out of 20 animals have been accounted for
+-------
+Zack checks on David the Dog
+David the Dog says Woof!
+Zack has noted that 8 out of 20 animals have been accounted for
+-------
+Zack checks on William the Wolf
+William the Wolf says AWWWOOOO!
+Zack has noted that 9 out of 20 animals have been accounted for
+-------
+Zack checks on Whittier the Wolf
+Whittier the Wolf says AWWWOOOO!
+Zack has noted that 10 out of 20 animals have been accounted for
+-------
+Zack checks on Ryan the Rhino
+Ryan the Rhino says Grufff!
+Zack has noted that 11 out of 20 animals have been accounted for
+-------
+Zack checks on Reilly the Rhino
+Reilly the Rhino says Grufff!
+Zack has noted that 12 out of 20 animals have been accounted for
+-------
+Zack checks on Elmer the Elephant
+Elmer the Elephant says Prrrr!
+Zack has noted that 13 out of 20 animals have been accounted for
+-------
+Zack checks on Elliot the Elephant
+Elliot the Elephant says Prrrr!
+Zack has noted that 14 out of 20 animals have been accounted for
+-------
+Zack checks on Henry the Hippo
+Henry the Hippo says Hipp Hipp!
+Zack has noted that 15 out of 20 animals have been accounted for
+-------
+Zack checks on Haley the Hippo
+Haley the Hippo says Hipp Hipp!
+Zack has noted that 16 out of 20 animals have been accounted for
+-------
+Zack checks on Billie the Bison
+Billie the Bison says MOOOOO!
+Zack has noted that 17 out of 20 animals have been accounted for
+-------
+Zack checks on Bobby the Bison
+Bobby the Bison says MOOOOO!
+Zack has noted that 18 out of 20 animals have been accounted for
+-------
+Zack checks on Cole the Cattle
+Cole the Cattle says Mooo!
+Zack has noted that 19 out of 20 animals have been accounted for
+-------
+Zack checks on Chris the Cattle
+Chris the Cattle says Mooo!
+Zack has noted that 20 out of 20 animals have been accounted for
+-------
+Zack begins to feed Chloe the Cat
+Chloe the Cat eats his food
+-------
+Zack begins to feed Charles the Cat
+Charles the Cat eats his food
+-------
+Zack begins to feed Leo the Lion
+Leo the Lion eats his food
+-------
+Zack begins to feed Liam the Lion
+Liam the Lion eats his food
+-------
+Zack begins to feed Tyler the Tiger
+Tyler the Tiger eats his food
+-------
+Zack begins to feed Timmy the Tiger
+Timmy the Tiger eats his food
+-------
+Zack begins to feed Dillon the Dog
+Dillon the Dog eats his food
+-------
+Zack begins to feed David the Dog
+David the Dog eats his food
+-------
+Zack begins to feed William the Wolf
+William the Wolf eats his food
+-------
+Zack begins to feed Whittier the Wolf
+Whittier the Wolf eats his food
+-------
+Zack begins to feed Ryan the Rhino
+Ryan the Rhino eats his food
+-------
+Zack begins to feed Reilly the Rhino
+Reilly the Rhino eats his food
+-------
+Zack begins to feed Elmer the Elephant
+Elmer the Elephant eats his food
+-------
+Zack begins to feed Elliot the Elephant
+Elliot the Elephant eats his food
+-------
+Zack begins to feed Henry the Hippo
+Henry the Hippo eats his food
+-------
+Zack begins to feed Haley the Hippo
+Haley the Hippo eats his food
+-------
+Zack begins to feed Billie the Bison
+Billie the Bison eats his food
+-------
+Zack begins to feed Bobby the Bison
+Bobby the Bison eats his food
+-------
+Zack begins to feed Cole the Cattle
+Cole the Cattle eats his food
+-------
+Zack begins to feed Chris the Cattle
+Chris the Cattle eats his food
+-------
+Zack makes Chloe the Cat get some exercise
+Chloe the Cat has started to roam
+-------
+Zack makes Charles the Cat get some exercise
+Charles the Cat has started to roam
+-------
+Zack makes Leo the Lion get some exercise
+Leo the Lion has started to roam
+-------
+Zack makes Liam the Lion get some exercise
+Liam the Lion has started to roam
+-------
+Zack makes Tyler the Tiger get some exercise
+Tyler the Tiger has started to roam
+-------
+Zack makes Timmy the Tiger get some exercise
+Timmy the Tiger has started to roam
+-------
+Zack makes Dillon the Dog get some exercise
+Dillon the Dog to get some exercise
+-------
+Zack makes David the Dog get some exercise
+David the Dog to get some exercise
+-------
+Zack makes William the Wolf get some exercise
+William the Wolfbegins to roam
+-------
+Zack makes Whittier the Wolf get some exercise
+Whittier the Wolfbegins to roam
+-------
+Zack makes Ryan the Rhino get some exercise
+Ryan the Rhino charges at the Zookeeper!
+-------
+Zack makes Reilly the Rhino get some exercise
+Reilly the Rhino begins to roam
+-------
+Zack makes Elmer the Elephant get some exercise
+Elmer the Elephant charges at the Zookeeper!
+-------
+Zack makes Elliot the Elephant get some exercise
+Elliot the Elephant begins to roam
+-------
+Zack makes Henry the Hippo get some exercise
+Henry the Hippo charges at the Zookeeper!
+-------
+Zack makes Haley the Hippo get some exercise
+Haley the Hippo begins to roam
+-------
+Zack makes Billie the Bison get some exercise
+Billie the Bison has started to roam
+-------
+Zack makes Bobby the Bison get some exercise
+Bobby the Bison has started to roam
+-------
+Zack makes Cole the Cattle get some exercise
+Cole the Cattle has started to roam
+-------
+Zack makes Chris the Cattle get some exercise
+Chris the Cattle has started to roam
+-------
+Zack has started to put Chloe the Cat to sleep
+Chloe the Cat says Meeooww!
+-------
+Zack has started to put Charles the Cat to sleep
+Charles the Cat has started to Sleep 
+-------
+Zack has started to put Leo the Lion to sleep
+Leo the Lion says Raaawr!
+-------
+Zack has started to put Liam the Lion to sleep
+Liam the Lion has started to Sleep 
+-------
+Zack has started to put Tyler the Tiger to sleep
+Tyler the Tiger begins to roam instead of sleeping!
+-------
+Zack has started to put Timmy the Tiger to sleep
+Timmy the Tiger begins to roam instead of sleeping!
+-------
+Zack has started to put Dillon the Dog to sleep
+Dillon the Dog has started to sleep
+-------
+Zack has started to put David the Dog to sleep
+David the Dog has started to sleep
+-------
+Zack has started to put William the Wolf to sleep
+William the Wolf has started to sleep
+-------
+Zack has started to put Whittier the Wolf to sleep
+Whittier the Wolf has started to sleep
+-------
+Zack has started to put Ryan the Rhino to sleep
+Ryan the Rhino has started to sleep
+-------
+Zack has started to put Reilly the Rhino to sleep
+Reilly the Rhino has started to sleep
+-------
+Zack has started to put Elmer the Elephant to sleep
+Elmer the Elephant has started to sleep
+-------
+Zack has started to put Elliot the Elephant to sleep
+Elliot the Elephant has started to sleep
+-------
+Zack has started to put Henry the Hippo to sleep
+Henry the Hippo has started to sleep
+-------
+Zack has started to put Haley the Hippo to sleep
+Haley the Hippo has started to sleep
+-------
+Zack has started to put Billie the Bison to sleep
+Billie the Bison has started to sleep
+-------
+Zack has started to put Bobby the Bison to sleep
+Bobby the Bison has started to sleep
+-------
+Zack has started to put Cole the Cattle to sleep
+Cole the Cattle has started to sleep
+-------
+Zack has started to put Chris the Cattle to sleep
+Chris the Cattle has started to sleep
+
+Zack the Zookeeper has left the Zoo
+
+Zack the Zookeeper has arrived to the Zoo on Day 6
+
+-------
+Zack wakes up Chloe the Cat
+Chloe the Cat is awake
+-------
+Zack wakes up Charles the Cat
+Charles the Cat is awake
+-------
+Zack wakes up Leo the Lion
+Leo the Lion is awake
+-------
+Zack wakes up Liam the Lion
+Liam the Lion is awake
+-------
+Zack wakes up Tyler the Tiger
+Tyler the Tiger is awake
+-------
+Zack wakes up Timmy the Tiger
+Timmy the Tiger is awake
+-------
+Zack wakes up Dillon the Dog
+Dillon the Dog is awake
+-------
+Zack wakes up David the Dog
+David the Dog is awake
+-------
+Zack wakes up William the Wolf
+William the Wolf is awake
+-------
+Zack wakes up Whittier the Wolf
+Whittier the Wolf is awake
+-------
+Zack wakes up Ryan the Rhino
+Ryan the Rhino is awake
+-------
+Zack wakes up Reilly the Rhino
+Reilly the Rhino is awake
+-------
+Zack wakes up Elmer the Elephant
+Elmer the Elephant is awake
+-------
+Zack wakes up Elliot the Elephant
+Elliot the Elephant is awake
+-------
+Zack wakes up Henry the Hippo
+Henry the Hippo is awake
+-------
+Zack wakes up Haley the Hippo
+Haley the Hippo is awake
+-------
+Zack wakes up Billie the Bison
+Billie the Bison is awake
+-------
+Zack wakes up Bobby the Bison
+Bobby the Bison is awake
+-------
+Zack wakes up Cole the Cattle
+Cole the Cattle is awake
+-------
+Zack wakes up Chris the Cattle
+Chris the Cattle is awake
+-------
+Zack checks on Chloe the Cat
+Chloe the Cat says Meeooww!
+Zack has noted that 1 out of 20 animals have been accounted for
+-------
+Zack checks on Charles the Cat
+Charles the Cat says Meeooww!
+Zack has noted that 2 out of 20 animals have been accounted for
+-------
+Zack checks on Leo the Lion
+Leo the Lion says Raaawr!
+Zack has noted that 3 out of 20 animals have been accounted for
+-------
+Zack checks on Liam the Lion
+Liam the Lion says Raaawr!
+Zack has noted that 4 out of 20 animals have been accounted for
+-------
+Zack checks on Tyler the Tiger
+Tyler the Tiger says Grrrr!
+Zack has noted that 5 out of 20 animals have been accounted for
+-------
+Zack checks on Timmy the Tiger
+Timmy the Tiger says Grrrr!
+Zack has noted that 6 out of 20 animals have been accounted for
+-------
+Zack checks on Dillon the Dog
+Dillon the Dog says Woof!
+Zack has noted that 7 out of 20 animals have been accounted for
+-------
+Zack checks on David the Dog
+David the Dog says Woof!
+Zack has noted that 8 out of 20 animals have been accounted for
+-------
+Zack checks on William the Wolf
+William the Wolf says AWWWOOOO!
+Zack has noted that 9 out of 20 animals have been accounted for
+-------
+Zack checks on Whittier the Wolf
+Whittier the Wolf says AWWWOOOO!
+Zack has noted that 10 out of 20 animals have been accounted for
+-------
+Zack checks on Ryan the Rhino
+Ryan the Rhino says Grufff!
+Zack has noted that 11 out of 20 animals have been accounted for
+-------
+Zack checks on Reilly the Rhino
+Reilly the Rhino says Grufff!
+Zack has noted that 12 out of 20 animals have been accounted for
+-------
+Zack checks on Elmer the Elephant
+Elmer the Elephant says Prrrr!
+Zack has noted that 13 out of 20 animals have been accounted for
+-------
+Zack checks on Elliot the Elephant
+Elliot the Elephant says Prrrr!
+Zack has noted that 14 out of 20 animals have been accounted for
+-------
+Zack checks on Henry the Hippo
+Henry the Hippo says Hipp Hipp!
+Zack has noted that 15 out of 20 animals have been accounted for
+-------
+Zack checks on Haley the Hippo
+Haley the Hippo says Hipp Hipp!
+Zack has noted that 16 out of 20 animals have been accounted for
+-------
+Zack checks on Billie the Bison
+Billie the Bison says MOOOOO!
+Zack has noted that 17 out of 20 animals have been accounted for
+-------
+Zack checks on Bobby the Bison
+Bobby the Bison says MOOOOO!
+Zack has noted that 18 out of 20 animals have been accounted for
+-------
+Zack checks on Cole the Cattle
+Cole the Cattle says Mooo!
+Zack has noted that 19 out of 20 animals have been accounted for
+-------
+Zack checks on Chris the Cattle
+Chris the Cattle says Mooo!
+Zack has noted that 20 out of 20 animals have been accounted for
+-------
+Zack begins to feed Chloe the Cat
+Chloe the Cat eats his food
+-------
+Zack begins to feed Charles the Cat
+Charles the Cat eats his food
+-------
+Zack begins to feed Leo the Lion
+Leo the Lion eats his food
+-------
+Zack begins to feed Liam the Lion
+Liam the Lion eats his food
+-------
+Zack begins to feed Tyler the Tiger
+Tyler the Tiger eats his food
+-------
+Zack begins to feed Timmy the Tiger
+Timmy the Tiger eats his food
+-------
+Zack begins to feed Dillon the Dog
+Dillon the Dog eats his food
+-------
+Zack begins to feed David the Dog
+David the Dog eats his food
+-------
+Zack begins to feed William the Wolf
+William the Wolf eats his food
+-------
+Zack begins to feed Whittier the Wolf
+Whittier the Wolf eats his food
+-------
+Zack begins to feed Ryan the Rhino
+Ryan the Rhino eats his food
+-------
+Zack begins to feed Reilly the Rhino
+Reilly the Rhino eats his food
+-------
+Zack begins to feed Elmer the Elephant
+Elmer the Elephant eats his food
+-------
+Zack begins to feed Elliot the Elephant
+Elliot the Elephant eats his food
+-------
+Zack begins to feed Henry the Hippo
+Henry the Hippo eats his food
+-------
+Zack begins to feed Haley the Hippo
+Haley the Hippo eats his food
+-------
+Zack begins to feed Billie the Bison
+Billie the Bison eats his food
+-------
+Zack begins to feed Bobby the Bison
+Bobby the Bison eats his food
+-------
+Zack begins to feed Cole the Cattle
+Cole the Cattle eats his food
+-------
+Zack begins to feed Chris the Cattle
+Chris the Cattle eats his food
+-------
+Zack makes Chloe the Cat get some exercise
+Chloe the Cat has started to roam
+-------
+Zack makes Charles the Cat get some exercise
+Charles the Cat has started to roam
+-------
+Zack makes Leo the Lion get some exercise
+Leo the Lion has started to roam
+-------
+Zack makes Liam the Lion get some exercise
+Liam the Lion has started to roam
+-------
+Zack makes Tyler the Tiger get some exercise
+Tyler the Tiger has started to roam
+-------
+Zack makes Timmy the Tiger get some exercise
+Timmy the Tiger has started to roam
+-------
+Zack makes Dillon the Dog get some exercise
+Dillon the Dog to get some exercise
+-------
+Zack makes David the Dog get some exercise
+David the Dog to get some exercise
+-------
+Zack makes William the Wolf get some exercise
+William the Wolfbegins to roam
+-------
+Zack makes Whittier the Wolf get some exercise
+Whittier the Wolfbegins to roam
+-------
+Zack makes Ryan the Rhino get some exercise
+Ryan the Rhino begins to roam
+-------
+Zack makes Reilly the Rhino get some exercise
+Reilly the Rhino begins to roam
+-------
+Zack makes Elmer the Elephant get some exercise
+Elmer the Elephant begins to roam
+-------
+Zack makes Elliot the Elephant get some exercise
+Elliot the Elephant charges at the Zookeeper!
+-------
+Zack makes Henry the Hippo get some exercise
+Henry the Hippo begins to roam
+-------
+Zack makes Haley the Hippo get some exercise
+Haley the Hippo begins to roam
+-------
+Zack makes Billie the Bison get some exercise
+Billie the Bison has started to roam
+-------
+Zack makes Bobby the Bison get some exercise
+Bobby the Bison has started to roam
+-------
+Zack makes Cole the Cattle get some exercise
+Cole the Cattle has started to roam
+-------
+Zack makes Chris the Cattle get some exercise
+Chris the Cattle has started to roam
+-------
+Zack has started to put Chloe the Cat to sleep
+Chloe the Cat has started to Sleep 
+-------
+Zack has started to put Charles the Cat to sleep
+Charles the Cat begins to roam instead of sleeping!
+-------
+Zack has started to put Leo the Lion to sleep
+Leo the Lion has started to Sleep 
+-------
+Zack has started to put Liam the Lion to sleep
+Liam the Lion begins to roam instead of sleeping!
+-------
+Zack has started to put Tyler the Tiger to sleep
+Tyler the Tiger has started to Sleep 
+-------
+Zack has started to put Timmy the Tiger to sleep
+Timmy the Tiger has started to Sleep 
+-------
+Zack has started to put Dillon the Dog to sleep
+Dillon the Dog has started to sleep
+-------
+Zack has started to put David the Dog to sleep
+David the Dog has started to sleep
+-------
+Zack has started to put William the Wolf to sleep
+William the Wolf has started to sleep
+-------
+Zack has started to put Whittier the Wolf to sleep
+Whittier the Wolf has started to sleep
+-------
+Zack has started to put Ryan the Rhino to sleep
+Ryan the Rhino has started to sleep
+-------
+Zack has started to put Reilly the Rhino to sleep
+Reilly the Rhino has started to sleep
+-------
+Zack has started to put Elmer the Elephant to sleep
+Elmer the Elephant has started to sleep
+-------
+Zack has started to put Elliot the Elephant to sleep
+Elliot the Elephant has started to sleep
+-------
+Zack has started to put Henry the Hippo to sleep
+Henry the Hippo has started to sleep
+-------
+Zack has started to put Haley the Hippo to sleep
+Haley the Hippo has started to sleep
+-------
+Zack has started to put Billie the Bison to sleep
+Billie the Bison has started to sleep
+-------
+Zack has started to put Bobby the Bison to sleep
+Bobby the Bison has started to sleep
+-------
+Zack has started to put Cole the Cattle to sleep
+Cole the Cattle has started to sleep
+-------
+Zack has started to put Chris the Cattle to sleep
+Chris the Cattle has started to sleep
+
+Zack the Zookeeper has left the Zoo
+
+Zack the Zookeeper has arrived to the Zoo on Day 7
+
+-------
+Zack wakes up Chloe the Cat
+Chloe the Cat is awake
+-------
+Zack wakes up Charles the Cat
+Charles the Cat is awake
+-------
+Zack wakes up Leo the Lion
+Leo the Lion is awake
+-------
+Zack wakes up Liam the Lion
+Liam the Lion is awake
+-------
+Zack wakes up Tyler the Tiger
+Tyler the Tiger is awake
+-------
+Zack wakes up Timmy the Tiger
+Timmy the Tiger is awake
+-------
+Zack wakes up Dillon the Dog
+Dillon the Dog is awake
+-------
+Zack wakes up David the Dog
+David the Dog is awake
+-------
+Zack wakes up William the Wolf
+William the Wolf is awake
+-------
+Zack wakes up Whittier the Wolf
+Whittier the Wolf is awake
+-------
+Zack wakes up Ryan the Rhino
+Ryan the Rhino is awake
+-------
+Zack wakes up Reilly the Rhino
+Reilly the Rhino is awake
+-------
+Zack wakes up Elmer the Elephant
+Elmer the Elephant is awake
+-------
+Zack wakes up Elliot the Elephant
+Elliot the Elephant is awake
+-------
+Zack wakes up Henry the Hippo
+Henry the Hippo is awake
+-------
+Zack wakes up Haley the Hippo
+Haley the Hippo is awake
+-------
+Zack wakes up Billie the Bison
+Billie the Bison is awake
+-------
+Zack wakes up Bobby the Bison
+Bobby the Bison is awake
+-------
+Zack wakes up Cole the Cattle
+Cole the Cattle is awake
+-------
+Zack wakes up Chris the Cattle
+Chris the Cattle is awake
+-------
+Zack checks on Chloe the Cat
+Chloe the Cat says Meeooww!
+Zack has noted that 1 out of 20 animals have been accounted for
+-------
+Zack checks on Charles the Cat
+Charles the Cat says Meeooww!
+Zack has noted that 2 out of 20 animals have been accounted for
+-------
+Zack checks on Leo the Lion
+Leo the Lion says Raaawr!
+Zack has noted that 3 out of 20 animals have been accounted for
+-------
+Zack checks on Liam the Lion
+Liam the Lion says Raaawr!
+Zack has noted that 4 out of 20 animals have been accounted for
+-------
+Zack checks on Tyler the Tiger
+Tyler the Tiger says Grrrr!
+Zack has noted that 5 out of 20 animals have been accounted for
+-------
+Zack checks on Timmy the Tiger
+Timmy the Tiger says Grrrr!
+Zack has noted that 6 out of 20 animals have been accounted for
+-------
+Zack checks on Dillon the Dog
+Dillon the Dog says Woof!
+Zack has noted that 7 out of 20 animals have been accounted for
+-------
+Zack checks on David the Dog
+David the Dog says Woof!
+Zack has noted that 8 out of 20 animals have been accounted for
+-------
+Zack checks on William the Wolf
+William the Wolf says AWWWOOOO!
+Zack has noted that 9 out of 20 animals have been accounted for
+-------
+Zack checks on Whittier the Wolf
+Whittier the Wolf says AWWWOOOO!
+Zack has noted that 10 out of 20 animals have been accounted for
+-------
+Zack checks on Ryan the Rhino
+Ryan the Rhino says Grufff!
+Zack has noted that 11 out of 20 animals have been accounted for
+-------
+Zack checks on Reilly the Rhino
+Reilly the Rhino says Grufff!
+Zack has noted that 12 out of 20 animals have been accounted for
+-------
+Zack checks on Elmer the Elephant
+Elmer the Elephant says Prrrr!
+Zack has noted that 13 out of 20 animals have been accounted for
+-------
+Zack checks on Elliot the Elephant
+Elliot the Elephant says Prrrr!
+Zack has noted that 14 out of 20 animals have been accounted for
+-------
+Zack checks on Henry the Hippo
+Henry the Hippo says Hipp Hipp!
+Zack has noted that 15 out of 20 animals have been accounted for
+-------
+Zack checks on Haley the Hippo
+Haley the Hippo says Hipp Hipp!
+Zack has noted that 16 out of 20 animals have been accounted for
+-------
+Zack checks on Billie the Bison
+Billie the Bison says MOOOOO!
+Zack has noted that 17 out of 20 animals have been accounted for
+-------
+Zack checks on Bobby the Bison
+Bobby the Bison says MOOOOO!
+Zack has noted that 18 out of 20 animals have been accounted for
+-------
+Zack checks on Cole the Cattle
+Cole the Cattle says Mooo!
+Zack has noted that 19 out of 20 animals have been accounted for
+-------
+Zack checks on Chris the Cattle
+Chris the Cattle says Mooo!
+Zack has noted that 20 out of 20 animals have been accounted for
+-------
+Zack begins to feed Chloe the Cat
+Chloe the Cat eats his food
+-------
+Zack begins to feed Charles the Cat
+Charles the Cat eats his food
+-------
+Zack begins to feed Leo the Lion
+Leo the Lion eats his food
+-------
+Zack begins to feed Liam the Lion
+Liam the Lion eats his food
+-------
+Zack begins to feed Tyler the Tiger
+Tyler the Tiger eats his food
+-------
+Zack begins to feed Timmy the Tiger
+Timmy the Tiger eats his food
+-------
+Zack begins to feed Dillon the Dog
+Dillon the Dog eats his food
+-------
+Zack begins to feed David the Dog
+David the Dog eats his food
+-------
+Zack begins to feed William the Wolf
+William the Wolf eats his food
+-------
+Zack begins to feed Whittier the Wolf
+Whittier the Wolf eats his food
+-------
+Zack begins to feed Ryan the Rhino
+Ryan the Rhino eats his food
+-------
+Zack begins to feed Reilly the Rhino
+Reilly the Rhino eats his food
+-------
+Zack begins to feed Elmer the Elephant
+Elmer the Elephant eats his food
+-------
+Zack begins to feed Elliot the Elephant
+Elliot the Elephant eats his food
+-------
+Zack begins to feed Henry the Hippo
+Henry the Hippo eats his food
+-------
+Zack begins to feed Haley the Hippo
+Haley the Hippo eats his food
+-------
+Zack begins to feed Billie the Bison
+Billie the Bison eats his food
+-------
+Zack begins to feed Bobby the Bison
+Bobby the Bison eats his food
+-------
+Zack begins to feed Cole the Cattle
+Cole the Cattle eats his food
+-------
+Zack begins to feed Chris the Cattle
+Chris the Cattle eats his food
+-------
+Zack makes Chloe the Cat get some exercise
+Chloe the Cat has started to roam
+-------
+Zack makes Charles the Cat get some exercise
+Charles the Cat has started to roam
+-------
+Zack makes Leo the Lion get some exercise
+Leo the Lion has started to roam
+-------
+Zack makes Liam the Lion get some exercise
+Liam the Lion has started to roam
+-------
+Zack makes Tyler the Tiger get some exercise
+Tyler the Tiger has started to roam
+-------
+Zack makes Timmy the Tiger get some exercise
+Timmy the Tiger has started to roam
+-------
+Zack makes Dillon the Dog get some exercise
+Dillon the Dog to get some exercise
+-------
+Zack makes David the Dog get some exercise
+David the Dog to get some exercise
+-------
+Zack makes William the Wolf get some exercise
+William the Wolfbegins to roam
+-------
+Zack makes Whittier the Wolf get some exercise
+Whittier the Wolfbegins to roam
+-------
+Zack makes Ryan the Rhino get some exercise
+Ryan the Rhino charges at the Zookeeper!
+-------
+Zack makes Reilly the Rhino get some exercise
+Reilly the Rhino begins to roam
+-------
+Zack makes Elmer the Elephant get some exercise
+Elmer the Elephant begins to roam
+-------
+Zack makes Elliot the Elephant get some exercise
+Elliot the Elephant charges at the Zookeeper!
+-------
+Zack makes Henry the Hippo get some exercise
+Henry the Hippo begins to roam
+-------
+Zack makes Haley the Hippo get some exercise
+Haley the Hippo charges at the Zookeeper!
+-------
+Zack makes Billie the Bison get some exercise
+Billie the Bison has started to roam
+-------
+Zack makes Bobby the Bison get some exercise
+Bobby the Bison has started to roam
+-------
+Zack makes Cole the Cattle get some exercise
+Cole the Cattle has started to roam
+-------
+Zack makes Chris the Cattle get some exercise
+Chris the Cattle has started to roam
+-------
+Zack has started to put Chloe the Cat to sleep
+Chloe the Cat begins to roam instead of sleeping!
+-------
+Zack has started to put Charles the Cat to sleep
+Charles the Cat says Meeooww!
+-------
+Zack has started to put Leo the Lion to sleep
+Leo the Lion has started to Sleep 
+-------
+Zack has started to put Liam the Lion to sleep
+Liam the Lion says Raaawr!
+-------
+Zack has started to put Tyler the Tiger to sleep
+Tyler the Tiger begins to roam instead of sleeping!
+-------
+Zack has started to put Timmy the Tiger to sleep
+Timmy the Tiger begins to roam instead of sleeping!
+-------
+Zack has started to put Dillon the Dog to sleep
+Dillon the Dog has started to sleep
+-------
+Zack has started to put David the Dog to sleep
+David the Dog has started to sleep
+-------
+Zack has started to put William the Wolf to sleep
+William the Wolf has started to sleep
+-------
+Zack has started to put Whittier the Wolf to sleep
+Whittier the Wolf has started to sleep
+-------
+Zack has started to put Ryan the Rhino to sleep
+Ryan the Rhino has started to sleep
+-------
+Zack has started to put Reilly the Rhino to sleep
+Reilly the Rhino has started to sleep
+-------
+Zack has started to put Elmer the Elephant to sleep
+Elmer the Elephant has started to sleep
+-------
+Zack has started to put Elliot the Elephant to sleep
+Elliot the Elephant has started to sleep
+-------
+Zack has started to put Henry the Hippo to sleep
+Henry the Hippo has started to sleep
+-------
+Zack has started to put Haley the Hippo to sleep
+Haley the Hippo has started to sleep
+-------
+Zack has started to put Billie the Bison to sleep
+Billie the Bison has started to sleep
+-------
+Zack has started to put Bobby the Bison to sleep
+Bobby the Bison has started to sleep
+-------
+Zack has started to put Cole the Cattle to sleep
+Cole the Cattle has started to sleep
+-------
+Zack has started to put Chris the Cattle to sleep
+Chris the Cattle has started to sleep
+
+Zack the Zookeeper has left the Zoo
+
+Process finished with exit code 0
