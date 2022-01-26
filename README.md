@@ -2,7 +2,7 @@
 Repository for Project 1 for CSCI 4448 (Object Oriented Analysis and Design).
 
 ### Teammates: 
-- No one else, my original teammated out of the semester. The Professor is aware.
+- No one else, my original teammate dropped out of the semester. The Professor is aware.
 
 ### Issues Encountered:
 - This was my first time working in Java so it took some time initially to get used to the syntax.
